@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T02:40:31.597Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.4.1" etag="yHTLIYVS61VqWcjiVKrC" type="github"><diagram id="aEiX47ABnp4WQeNfyszu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-23T02:51:11.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="e6UdD9bpVgLp_gquB8Si" version="20.4.1" type="github">
+  <diagram id="aEiX47ABnp4WQeNfyszu" name="第 1 页">
+    <mxGraphModel dx="1065" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-1" value="Windows/Linux&lt;br&gt;RDP server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-2" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="q9mfkoHDo8fpLs3BQI12-6" target="q9mfkoHDo8fpLs3BQI12-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="520" y="260" as="sourcePoint" />
+            <mxPoint x="620" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="530" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-5" value="Webrtc-RDP transform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="245" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-6" value="RDP client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="310" width="286" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-9" value="&lt;span style=&quot;text-align: start;&quot;&gt;Virtual&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: start;&quot;&gt;Desktop&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-10" value="Video" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="320" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-11" value="Aduio" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-12" value="Mouse event" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-13" value="Keyboard event" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-14" value="WEBRTC client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-15" value="User Browser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-16" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="q9mfkoHDo8fpLs3BQI12-15" target="q9mfkoHDo8fpLs3BQI12-14">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="200" y="590" as="sourcePoint" />
+            <mxPoint x="300" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-17" value="Clipboard" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-18" value="Windows RDP&amp;nbsp;&lt;br&gt;virtual channle&lt;br&gt;remote application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q9mfkoHDo8fpLs3BQI12-19" value="webrtc data channle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
