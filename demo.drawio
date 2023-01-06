@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T07:55:17.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="w5ppsTyMA22LwWq2uJoQ" type="github"><diagram id="LpSWwC9tgpqdv132k_J3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-06T08:00:14.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="yBp55vsxg91ur9jTQKg9" type="github">
+  <diagram id="3kZqCoHLtHwq5TE1h0sD" name="第 1 页">
+    <mxGraphModel dx="970" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-gyrKTvXahr1jwmeg3f0-1" value="Windows/Linux&lt;br&gt;RDP server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gyrKTvXahr1jwmeg3f0-2" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="-gyrKTvXahr1jwmeg3f0-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="170" y="290" as="sourcePoint" />
+            <mxPoint x="620" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gyrKTvXahr1jwmeg3f0-13" value="User Browser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gyrKTvXahr1jwmeg3f0-14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gyrKTvXahr1jwmeg3f0-13" target="-gyrKTvXahr1jwmeg3f0-19">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="580" y="510" as="sourcePoint" />
+            <mxPoint x="680" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gyrKTvXahr1jwmeg3f0-16" value="Windows RDP&amp;nbsp;&lt;br&gt;virtual channle/remoteApp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="170" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-gyrKTvXahr1jwmeg3f0-18" value="Docker guacd 服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gyrKTvXahr1jwmeg3f0-19" value="Golang 后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gyrKTvXahr1jwmeg3f0-20" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gyrKTvXahr1jwmeg3f0-18" target="-gyrKTvXahr1jwmeg3f0-19">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="250" y="410" as="sourcePoint" />
+            <mxPoint x="350" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gyrKTvXahr1jwmeg3f0-21" value="websocket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="455" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gyrKTvXahr1jwmeg3f0-22" value="&lt;span style=&quot;color: rgb(44, 53, 61); font-family: &amp;quot;SF Pro Text&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, Helvetica, sans-serif, &amp;quot;PingFang SC&amp;quot;, Arial, &amp;quot;Heiti SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, Tahoma; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;guacamole协议&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="285" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
