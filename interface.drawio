@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T09:45:33.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="XfeR1y6IHIU2x6EluJgR" type="github"><diagram id="iAA5ykLQ0y7JdQ4ukKlY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-11T11:00:49.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="MLHGC1iMeMQunIoDKwNm" type="github">
+  <diagram id="ICVc2obfT1oJj_bjg8gP" name="第 1 页">
+    <mxGraphModel dx="1049" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4y06LqJEzb4V8VHdcvuL-1" value="远算云 namespace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4y06LqJEzb4V8VHdcvuL-2" value="远算云开发环境 k8s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="75" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4y06LqJEzb4V8VHdcvuL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="4y06LqJEzb4V8VHdcvuL-3" target="4y06LqJEzb4V8VHdcvuL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4y06LqJEzb4V8VHdcvuL-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="1" source="4y06LqJEzb4V8VHdcvuL-3" target="4y06LqJEzb4V8VHdcvuL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4y06LqJEzb4V8VHdcvuL-3" value="创物 namespace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4y06LqJEzb4V8VHdcvuL-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="130" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4y06LqJEzb4V8VHdcvuL-5" value="远算云生产环境 k8s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="75" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4y06LqJEzb4V8VHdcvuL-7" value="openAPI" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4y06LqJEzb4V8VHdcvuL-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="280" as="sourcePoint" />
+            <mxPoint x="270" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4y06LqJEzb4V8VHdcvuL-12" value="closeAPI" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
