@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T08:32:41.288Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.9" etag="-CFefqqQ5EC0ZZI_ppEV" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T09:36:35.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="r6UTNOfVz5n6BJdvOtcf" version="21.1.9" type="github">
   <diagram name="第 1 页" id="IQd3VJ6llXnP5gVSyd0o">
-    <mxGraphModel>
+    <mxGraphModel dx="994" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-1" value="mpirun -n 4&amp;nbsp; pvbatch demo.py" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-2" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;# state file generated using paraview version 5.11.0&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;import paraview&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.compatibility.major = 5&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.compatibility.minor = 11&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;#### import the simple module from the paraview&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;from paraview.simple import *&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;#### disable automatic camera reset on &#39;Show&#39;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.simple._DisableFirstRenderCameraReset()&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;// balabala&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="30" y="130" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="199.5" as="sourcePoint" />
+            <mxPoint x="310" y="199.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-8" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;# state file generated using paraview version 5.11.0&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;import paraview&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.compatibility.major = 5&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.compatibility.minor = 11&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;#### import the simple module from the paraview&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;from paraview.simple import *&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;#### disable automatic camera reset on &#39;Show&#39;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.simple._DisableFirstRenderCameraReset()&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;// balabala&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="350" y="130" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-9" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;# state file generated using paraview version 5.11.0&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;import paraview&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.compatibility.major = 5&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.compatibility.minor = 11&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;#### import the simple module from the paraview&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;from paraview.simple import *&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;#### disable automatic camera reset on &#39;Show&#39;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.simple._DisableFirstRenderCameraReset()&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;// balabala&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-10" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;# state file generated using paraview version 5.11.0&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;import paraview&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.compatibility.major = 5&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.compatibility.minor = 11&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;#### import the simple module from the paraview&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;from paraview.simple import *&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;#### disable automatic camera reset on &#39;Show&#39;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.simple._DisableFirstRenderCameraReset()&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;// balabala&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="330" y="150" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-11" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;# state file generated using paraview version 5.11.0&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;import paraview&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.compatibility.major = 5&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.compatibility.minor = 11&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;#### import the simple module from the paraview&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;from paraview.simple import *&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;#### disable automatic camera reset on &#39;Show&#39;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;paraview.simple._DisableFirstRenderCameraReset()&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;// balabala&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-13" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="700" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-14" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-15" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="700" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-16" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="790" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrlSeDNoaWZ7laIujqQD-8" target="vrlSeDNoaWZ7laIujqQD-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="130" as="sourcePoint" />
+            <mxPoint x="650" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vrlSeDNoaWZ7laIujqQD-9" target="vrlSeDNoaWZ7laIujqQD-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="440" as="sourcePoint" />
+            <mxPoint x="700" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrlSeDNoaWZ7laIujqQD-10" target="vrlSeDNoaWZ7laIujqQD-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="450" as="sourcePoint" />
+            <mxPoint x="750" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vrlSeDNoaWZ7laIujqQD-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrlSeDNoaWZ7laIujqQD-11" target="vrlSeDNoaWZ7laIujqQD-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="410" as="sourcePoint" />
+            <mxPoint x="700" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
