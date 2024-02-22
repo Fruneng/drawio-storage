@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T06:18:34.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ElN4CFQ7SgC8H_7nkrC8" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T07:41:31.866Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZlQiEN-eGWCIY-vkCNfH" version="23.0.0" type="github">
   <diagram name="第 1 页" id="9Kxfwdd4bMH0CWRlNo69">
-    <mxGraphModel dx="735" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,10 +133,10 @@
         <mxCell id="i5i1MLUGPX-2GjBipAwP-58" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="340" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="i5i1MLUGPX-2GjBipAwP-59" value="资源管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="i5i1MLUGPX-2GjBipAwP-59" value="调度组件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="295" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i5i1MLUGPX-2GjBipAwP-60" value="Resource Manager" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;strokeWidth=0;" vertex="1" parent="1">
+        <mxCell id="i5i1MLUGPX-2GjBipAwP-60" value="Scheduler" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="368.24" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i5i1MLUGPX-2GjBipAwP-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#00CC00;fillColor=#00CC00;" vertex="1" parent="1">
