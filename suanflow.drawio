@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T03:22:31.624Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EjGXqh_nuhYU2NJ4jwOa" version="23.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-23T03:31:46.226Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="dZexWXByTJ6aEFhwI2KB" version="23.0.0" type="github" pages="2">
   <diagram name="第 1 页" id="9Kxfwdd4bMH0CWRlNo69">
     <mxGraphModel dx="869" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,8 +210,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-8" value="课题二：自动化工作流组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="350" width="160" height="30" as="geometry" />
+        <mxCell id="X0yGNveWtc9LfwGwLfS1-8" value="课题二：云原生自动化工作流方法研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X0yGNveWtc9LfwGwLfS1-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X0yGNveWtc9LfwGwLfS1-10" target="X0yGNveWtc9LfwGwLfS1-64">
           <mxGeometry relative="1" as="geometry">
@@ -220,8 +220,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-10" value="课题三：高自由度调度组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="520" width="160" height="30" as="geometry" />
+        <mxCell id="X0yGNveWtc9LfwGwLfS1-10" value="课题三：基于K8s的高性能调度组件研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="520" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X0yGNveWtc9LfwGwLfS1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="X0yGNveWtc9LfwGwLfS1-11" target="X0yGNveWtc9LfwGwLfS1-12">
           <mxGeometry relative="1" as="geometry">
@@ -282,6 +282,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X0yGNveWtc9LfwGwLfS1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X0yGNveWtc9LfwGwLfS1-16" target="X0yGNveWtc9LfwGwLfS1-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X0yGNveWtc9LfwGwLfS1-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X0yGNveWtc9LfwGwLfS1-16" target="X0yGNveWtc9LfwGwLfS1-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X0yGNveWtc9LfwGwLfS1-16" value="Hadoop、Spark容器化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -350,8 +353,9 @@
             <mxPoint x="310" y="390" as="sourcePoint" />
             <mxPoint x="330" y="415" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="305" y="383" />
               <mxPoint x="300" y="383" />
-              <mxPoint x="300" y="445" />
+              <mxPoint x="300" y="435" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -472,6 +476,9 @@
         </mxCell>
         <mxCell id="X0yGNveWtc9LfwGwLfS1-81" value="面向算力网络的统一计算平台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="120" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X0yGNveWtc9LfwGwLfS1-82" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="880" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
