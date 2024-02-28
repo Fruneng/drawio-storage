@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T03:13:22.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wbdB_wGWvF-neWYPxqb4" version="23.1.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-28T05:36:09.499Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Z_KfAbmHdD4K_Ebi52u5" version="23.1.6" type="github" pages="3">
   <diagram name="第 1 页" id="9Kxfwdd4bMH0CWRlNo69">
     <mxGraphModel dx="1129" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -526,7 +526,7 @@
         <mxCell id="2d4u4MwYtHJvKQwN5xXz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2d4u4MwYtHJvKQwN5xXz-9" target="2d4u4MwYtHJvKQwN5xXz-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2d4u4MwYtHJvKQwN5xXz-9" value="文件同步" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2d4u4MwYtHJvKQwN5xXz-9" value="本地存储映射" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="820" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2d4u4MwYtHJvKQwN5xXz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="2d4u4MwYtHJvKQwN5xXz-5" edge="1">
@@ -551,7 +551,7 @@
           <mxGeometry x="465" y="785" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2d4u4MwYtHJvKQwN5xXz-15" value="FUSE 用户态文件系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="465" y="820" width="70" height="30" as="geometry" />
+          <mxGeometry x="465" y="825" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LZD6wmJdN4YV3ejwbmS_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LZD6wmJdN4YV3ejwbmS_-1" target="2d4u4MwYtHJvKQwN5xXz-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
