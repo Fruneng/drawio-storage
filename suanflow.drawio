@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T04:53:19.170Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="cYqNWMFaZWODNl0xFevb" version="23.1.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-29T06:03:46.469Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_hyK7zejTbdEwEZd-ow1" version="23.1.7" type="github" pages="3">
   <diagram name="第 1 页" id="9Kxfwdd4bMH0CWRlNo69">
     <mxGraphModel dx="876" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RS1d-zWupg6_mHf2wvKd" name="第 2 页">
-    <mxGraphModel dx="1031" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="701" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,7 +191,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-1" value="课题一：统一的资源管理平台研究" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="X0yGNveWtc9LfwGwLfS1-1" value="课题一：统一的资源管理平台研发" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="190" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X0yGNveWtc9LfwGwLfS1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X0yGNveWtc9LfwGwLfS1-8" target="X0yGNveWtc9LfwGwLfS1-41" edge="1">
@@ -207,7 +207,7 @@
         <mxCell id="X0yGNveWtc9LfwGwLfS1-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X0yGNveWtc9LfwGwLfS1-10" target="X0yGNveWtc9LfwGwLfS1-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="605" />
+              <mxPoint x="300" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -301,8 +301,14 @@
         <mxCell id="X0yGNveWtc9LfwGwLfS1-39" value="社交数据分析案例" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="1060" width="110" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X0yGNveWtc9LfwGwLfS1-41" target="A_SdlTlQiXb7Hu_ptSA2-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X0yGNveWtc9LfwGwLfS1-41" value="设计高效工作流模型和图形化建模工具的研究&lt;span id=&quot;docs-internal-guid-376ce37a-7fff-ee3a-2dc1-978f2dc5cbd5&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-e6472341-7fff-9afc-d7db-7e186d486a72&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-e6472341-7fff-9afc-d7db-7e186d486a72&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X0yGNveWtc9LfwGwLfS1-42" target="A_SdlTlQiXb7Hu_ptSA2-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X0yGNveWtc9LfwGwLfS1-42" value="工作流引擎的设计与优化研究" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="430" width="140" height="30" as="geometry" />
@@ -348,38 +354,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X0yGNveWtc9LfwGwLfS1-64" target="X0yGNveWtc9LfwGwLfS1-67" edge="1">
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X0yGNveWtc9LfwGwLfS1-64" target="A_SdlTlQiXb7Hu_ptSA2-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X0yGNveWtc9LfwGwLfS1-64" target="X0yGNveWtc9LfwGwLfS1-68" edge="1">
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X0yGNveWtc9LfwGwLfS1-64" target="A_SdlTlQiXb7Hu_ptSA2-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X0yGNveWtc9LfwGwLfS1-64" target="X0yGNveWtc9LfwGwLfS1-69" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="X0yGNveWtc9LfwGwLfS1-64" value="批处理任务调度研究" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="555" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="X0yGNveWtc9LfwGwLfS1-64" target="X0yGNveWtc9LfwGwLfS1-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="X0yGNveWtc9LfwGwLfS1-76" value="异构计算资源管理的研发&lt;span id=&quot;docs-internal-guid-b4524b6a-7fff-c92a-5bed-5def69eb2762&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="230" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-64" value="调度控制器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="590" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-65" value="优先级策略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="554.5" width="80" height="25.5" as="geometry" />
-        </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-67" value="容器组策略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="580" width="80" height="25.5" as="geometry" />
-        </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-68" value="物理邻近策略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="605.5" width="80" height="25.5" as="geometry" />
-        </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-69" value="..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="631" width="80" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-76" value="异构计算资源管理&lt;span id=&quot;docs-internal-guid-b4524b6a-7fff-c92a-5bed-5def69eb2762&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="230" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-78" value="机器学习模型部署与生命周期管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="270" width="100" height="30" as="geometry" />
+        <mxCell id="X0yGNveWtc9LfwGwLfS1-78" value="机器学习模型部署与生命周期管理的研发" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="270" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X0yGNveWtc9LfwGwLfS1-81" value="面向算力网络的统一计算平台" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="120" width="360" height="50" as="geometry" />
@@ -544,8 +532,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-15" value="存储优化与数据流水线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="310" width="100" height="30" as="geometry" />
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-15" value="存储优化与数据流水线的研发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A_SdlTlQiXb7Hu_ptSA2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A_SdlTlQiXb7Hu_ptSA2-15">
           <mxGeometry relative="1" as="geometry">
@@ -555,6 +543,42 @@
             <mxPoint x="300" y="220" as="sourcePoint" />
             <mxPoint x="350" y="295" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_SdlTlQiXb7Hu_ptSA2-17" target="A_SdlTlQiXb7Hu_ptSA2-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-17" value="定义工作流规范&lt;span id=&quot;docs-internal-guid-e6472341-7fff-9afc-d7db-7e186d486a72&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-18" value="图形化的显示和操作&lt;span id=&quot;docs-internal-guid-e6472341-7fff-9afc-d7db-7e186d486a72&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-21" value="k8s控制器研发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-23" value="批处理任务资源管理和调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="555" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-24" value="任务状态监控和容错机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="585" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_SdlTlQiXb7Hu_ptSA2-27" target="A_SdlTlQiXb7Hu_ptSA2-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-27" value="任务间数据共享和协同处理&lt;span id=&quot;docs-internal-guid-63fff7fa-7fff-4808-c0dd-731214bb5be4&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="615" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A_SdlTlQiXb7Hu_ptSA2-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="630" />
+            </Array>
+            <mxPoint x="300" y="550" as="sourcePoint" />
+            <mxPoint x="330" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_SdlTlQiXb7Hu_ptSA2-29" value="优化调度策略，提升网络性能和计算效率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="615" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
