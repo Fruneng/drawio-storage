@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T06:03:46.469Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_hyK7zejTbdEwEZd-ow1" version="23.1.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-29T08:22:41.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="yfjRNbr90CLHWVBW5dSn" version="23.1.7" type="github" pages="3">
   <diagram name="第 1 页" id="9Kxfwdd4bMH0CWRlNo69">
     <mxGraphModel dx="876" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RS1d-zWupg6_mHf2wvKd" name="第 2 页">
-    <mxGraphModel dx="701" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,8 +191,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-1" value="课题一：统一的资源管理平台研发" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="190" width="230" height="30" as="geometry" />
+        <mxCell id="X0yGNveWtc9LfwGwLfS1-1" value="课题一：云原生统一资源管理平台技术研究" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="190" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X0yGNveWtc9LfwGwLfS1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X0yGNveWtc9LfwGwLfS1-8" target="X0yGNveWtc9LfwGwLfS1-41" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -211,7 +211,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-10" value="课题三：基于容器平台的高性能调度组件研究" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="X0yGNveWtc9LfwGwLfS1-10" value="课题三：云原生统一计算平台调度组件研究" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="520" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A_SdlTlQiXb7Hu_ptSA2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X0yGNveWtc9LfwGwLfS1-11" target="A_SdlTlQiXb7Hu_ptSA2-2">
@@ -221,7 +221,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0yGNveWtc9LfwGwLfS1-11" value="课题五：容器化工作负载模板以及使用案例库研究" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="X0yGNveWtc9LfwGwLfS1-11" value="课题五：容器化工作负载研究" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="870" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X0yGNveWtc9LfwGwLfS1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="X0yGNveWtc9LfwGwLfS1-12" target="X0yGNveWtc9LfwGwLfS1-23" edge="1">
@@ -415,7 +415,7 @@
         <mxCell id="2d4u4MwYtHJvKQwN5xXz-5" value="鼠标键盘等外设同步的研究&lt;span id=&quot;docs-internal-guid-f2a626dc-7fff-7608-c627-aba9ff9e0286&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="780" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2d4u4MwYtHJvKQwN5xXz-6" value="虚拟显示设备驱动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2d4u4MwYtHJvKQwN5xXz-6" value="虚拟显示设备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="745" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2d4u4MwYtHJvKQwN5xXz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2d4u4MwYtHJvKQwN5xXz-9" target="A_SdlTlQiXb7Hu_ptSA2-1" edge="1">
@@ -446,7 +446,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2d4u4MwYtHJvKQwN5xXz-13" value="虚拟HID设备驱动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2d4u4MwYtHJvKQwN5xXz-13" value="虚拟HID设备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="785" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LZD6wmJdN4YV3ejwbmS_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LZD6wmJdN4YV3ejwbmS_-1" target="2d4u4MwYtHJvKQwN5xXz-3" edge="1">
